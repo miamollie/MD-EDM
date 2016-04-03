@@ -1,0 +1,733 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sear",
+				"search-btn"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"get",
+				"getElementsByClassName"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"getE",
+				"getElementsByClassName"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"sib",
+				"siblings"
+			],
+			[
+				"img",
+				"img-block"
+			],
+			[
+				"tabcontent",
+				"tabContentId"
+			],
+			[
+				"tabc",
+				"tabContentId"
+			],
+			[
+				"listing",
+				"listingInfo"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Template2-V1/index.html",
+			"settings":
+			{
+				"buffer_size": 26535,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Template3-V1/index.html",
+			"settings":
+			{
+				"buffer_size": 26189,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Template4-V1/index.html",
+			"settings":
+			{
+				"buffer_size": 25363,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Template5-V1/index.html",
+			"settings":
+			{
+				"buffer_size": 20250,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 242.0,
+		"selected_items":
+		[
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ine",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"code ",
+				"Code Folding: Unfold All"
+			],
+			[
+				"",
+				"Code Folding: Unfold All"
+			],
+			[
+				"idne",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"ined",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"nde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"tti",
+				"Convert Case: Title Case"
+			],
+			[
+				"title",
+				"Convert Case: Title Case"
+			],
+			[
+				"tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"CASE",
+				"Convert Case: Lower Case"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"IN",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"nide",
+				"Preferences: Settings - Default"
+			],
+			[
+				"ca",
+				"Convert Case: Title Case"
+			],
+			[
+				"cas",
+				"Convert Case: Title Case"
+			],
+			[
+				"dein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/xc0241/Dropbox/EDMs/EDMs/Template2-V1/template2-V2.html",
+		"/C/Users/xc0241/Dropbox/EDMs/EDMs/Template1-V2/index.html",
+		"/C/Users/xc0241/Dropbox/EDMs/EDMs/Template1-V2/curvedEdgeTest.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/2016/New folder/otesGreen.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/2016/Mayfield/mayfield.html",
+		"/C/Users/xc0241/Downloads/MilanDirect-mariano-favia-horizontalt-temp/index.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/2016/ZG160307/chair.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/2015/searles/searles.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/2016/CoralBay/coralbay.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/2016/LoganAndMason-Extended/loganAndMason.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/2016/Decorazz-TnW-Towels/decorazzTowels.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/2016/Lifestyle/lifestyle.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/2016/Everbloom/everbloom.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/2016/BlackMango-Extended/black-mangolighting.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/2016/Caboom/caboom.html",
+		"/C/Users/xc0241/Desktop/STATIC/showroom-map.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/2016/BlackMango/blackMango.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/2016/ApplianceKitchen/appliance.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/2016/EmmasDesign/emma.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/2016/Veera-Extended/veera-extended.html",
+		"/C/Users/xc0241/Desktop/news.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/2016/TekNik/teknik.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/2016/20160104-Serrano/serrano.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/2016/20160122-QTOYS/qtoys.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/SB-Scandinavian/sb-scandy.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/mf-Scandinavian/mfScandy.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/BD-LS/bd.html",
+		"/C/Users/xc0241/Desktop/AD/GWD300x325/GWD300x325.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/UnitedSouls-IndoSouls/unitedSoul.html",
+		"/C/Users/xc0241/Desktop/AD/GWDMDBoxingDay300x250/feeds/Sample Dynamic Retail MD.json",
+		"/C/Users/xc0241/Desktop/PRODUCTS/SB-Industial/sbIndustrial.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/searles/searles.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/sonoma/sonoma.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/pipers/pipersUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/PRHome/prHome-Description.htlm",
+		"/C/Users/xc0241/Desktop/PRODUCTS/huali/huali-upload.html",
+		"/C/Users/xc0241/Desktop/AD/MD-AD-300x250/feeds/Sample Dynamic Retail MD.json",
+		"/C/Users/xc0241/Desktop/PRODUCTS/aeros/aeros.html",
+		"/C/Users/xc0241/Downloads/MD/MD/sample-retail-Google.json",
+		"/C/Users/xc0241/Downloads/MD/MD/Sample Dynamic Retail MD.json",
+		"/C/Users/xc0241/Desktop/PRODUCTS/centrum/centrum.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/wantGiftware/wantUpload",
+		"/C/Users/xc0241/Desktop/PRODUCTS/avalia/avalia.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/rougeLiving/rougeLiving.html",
+		"/C/Users/xc0241/Desktop/STATIC/click-frenzy.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/JulianBowen/julianUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/logan&Mason/loganUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/rugsFurnsHomewares/rugsFurnsUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/duckyDora/duckyUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/babyface/babyfaecUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/weLoveCushions/weLoveCushionsUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/winGreen/winGreen.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/laForma/laForma-Upload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/kingcade/kingcadeUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/visionWallCoverings/visionWallCoveringUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/evaSolo2/LeffAmsterdam/leffAmsterdam.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/otesGreen/otesGreenUpload",
+		"/C/Users/xc0241/Desktop/PRODUCTS/italianFurniture/italian.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/expresSofas/expressSOfasUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/glowpear/glowPear",
+		"/C/Users/xc0241/Desktop/PRODUCTS/evaSolo2/Pantone/pantoneUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/evaSolo2/ThoughtfulGardener/gardener.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/until-extended/areaWare/areaUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/evaSolo2/TedBaker/tedBaker.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/evaSolo2/Scrabble/scrabble.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/evaSolo2/KreaFunk/kreaFunk.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/evaSolo2/ModernTwist/modern.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/evaSolo2/FrenchBull/frenchUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/evaSolo2/areaWare/areaUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/evaSolo2/doiy/doiyUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/evaSolo2/Folklore/folkloreUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/evaSolo2/BlackBlum/blackBlumUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/evaSolo2/areaWare/areaWareUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/evaSolo2/suckUK/suckUkUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/evaSolo2/Donkey/donkeyUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/Upload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/activeLesiure/activeUpload",
+		"/C/Users/xc0241/Desktop/PRODUCTS/melbournians/melbUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/newAim2/newAimUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/newAim2/newAimUpload",
+		"/C/Users/xc0241/Desktop/PRODUCTS/unitedSoul/unitedUpload.html",
+		"/C/Users/xc0241/Desktop/ebayTemplate/css/css-dynamic.css",
+		"/C/Users/xc0241/Desktop/ebayTemplate/docs/research.txt",
+		"/C/Users/xc0241/Desktop/ebayTemplate/listingTemplateTestV4-Dynamic.html",
+		"/C/Users/xc0241/Desktop/ebayTemplate/fonts/ProximaNova-Black.otf",
+		"/C/Users/xc0241/Desktop/ebayTemplate/fonts/fonts.css",
+		"/C/Users/xc0241/Desktop/ebayTemplate/listingTemplateTestV3-Dynamic.html",
+		"/C/Users/xc0241/Desktop/ebayTemplate/research.txt",
+		"/C/Users/xc0241/Desktop/PRODUCTS/spaceToCreate/spaceUpload.html",
+		"/C/Users/xc0241/Desktop/ebayTemplate/listing-template-FINAL.html",
+		"/C/Users/xc0241/Desktop/ebayTemplate/css/css.css",
+		"/C/Users/xc0241/Desktop/ebayTemplate/listingTemplateTestV2.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/Bentwood/FoUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/manchester/man_update.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/Bentwood/bentUL.html",
+		"/C/Users/xc0241/Desktop/ebayTemplate/css/md-ebay-listing-stylesV2.css",
+		"/C/Users/xc0241/Desktop/ebayTemplate/css/md-ebay-listing-styles-v1.2.css",
+		"/C/Users/xc0241/Desktop/ebayTemplate/md-ebay-listing-stylesV2.css",
+		"/C/Users/xc0241/Desktop/ebayTemplate/md-ebay-listing-styles.css",
+		"/C/Users/xc0241/Desktop/ebayTemplate/listingTemplateTest.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/NoreseLiving/docs/norselivinUpdate.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/woodQuail/woodQuail.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/quoss/quUpload.html",
+		"/C/Users/xc0241/Desktop/ebayTemplate/UK-listing-template-FINAL.html",
+		"/C/Users/xc0241/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/xc0241/Desktop/PRODUCTS/jayBe/jayBeUpdate.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/jayBe/jayBeCoverUpload.html",
+		"/C/Users/xc0241/AppData/Local/Temp/Temp1_spec-sheets.zip/Product Copy & Spec Sheets/HTML Text.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/baaStool/baaUpload.html",
+		"/C/Users/xc0241/Desktop/STATIC/mdTemplateNew.html",
+		"/C/Users/xc0241/Desktop/STATIC/mdTemplateOld.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/evaSolo/evaUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/mahoganyByHand/mahogandyByHandUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/artForestUpload",
+		"/C/Users/xc0241/Desktop/PRODUCTS/ecoChic/ecoUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/lagiuole/laguioleUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/domus/domusUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/morphyRichards/morphyRichardsUploadToaster",
+		"/C/Users/xc0241/Desktop/PRODUCTS/newAim/newAimUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/jcflamelesscandles15js42357aus/JCFMLCDS_ProductUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/morphyRichards/charlotteUpload",
+		"/C/Users/xc0241/Desktop/PRODUCTS/takeYourSeat/TA00022_productUpload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/morphyRichards/terms",
+		"/C/Users/xc0241/Desktop/PRODUCTS/morphyRichards/Amelia",
+		"/C/Users/xc0241/Desktop/PRODUCTS/morphyRichards/morphyRichardsUpload",
+		"/C/Users/xc0241/Desktop/PRODUCTS/oldworldtiles/oldworldTiles.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/vivin/vivin_upload.html",
+		"/C/Users/xc0241/Desktop/PRODUCTS/takeYourSeat/sizing.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"left",
+			"height=\"315\"",
+			"ht=\"15\">",
+			"Right",
+			"135",
+			"0.97em",
+			"#ffff00",
+			"eight=\"190\"",
+			"ht=\"190\" border=\"0\" style=\"display: inline-block; border-radius: 5px;\"/>\n																										</a>",
+			"<td class=\"spacer\" width=\"28\"></td>",
+			"<layout label=\"1/1 (full width) column banner\">	",
+			"Horizontal",
+			"	<table class=\"table_scale\" width=\"600\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\">\n																				<tr><td width=\"100%\" height=\"20\" style=\"line-height:0;\">&nbsp;</td></tr>\n																			</table>",
+			"<tr width=\"600\" height=\"5\"></tr>",
+			"	<table width=\"600\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\">\n																				<tr width=\"600\" height=\"30\"></tr>",
+			"545",
+			"	<td width=\"520\">	",
+			"Block",
+			"block",
+			"Block",
+			"dth=\"225\" height=\"190\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\" style=\"border-collapse:collapse; mso-table-lspace:0pt;\">",
+			"width=\"225\"",
+			"radius",
+			"ius: 4px;",
+			"Right",
+			"\"spacer\" width=\"30\">",
+			"20",
+			"1.25em;",
+			"1.25rem;",
+			"BUY NOW",
+			"ning chairs from",
+			"font-size: 1.05em;",
+			"	Replica Wishbone <br>",
+			"Left",
+			"Right",
+			"Lorem Ipsum",
+			"p>",
+			"p",
+			"300",
+			"UY N",
+			"padding: 10",
+			"-style: 0.97e",
+			"font-style: 0.97em;",
+			"ont-style: 0.97em;",
+			"tr label=\"spacer\" height=\"26\"></tr>",
+			"<tr label=\"spacer\" height=\"20\"></tr>",
+			"height=\"260\"",
+			"highlighted",
+			"padding-top:10px;",
+			"padding-top: 10px;",
+			"left",
+			"height:\"335\"",
+			"265",
+			"544",
+			"normal; font-weight: 700;\">\n																																					BUY NOW",
+			"ze:0.95e",
+			"ze:0.8em",
+			"ize:0.5em",
+			"ize:1.3",
+			"span style=\"font-size:small\">RRP</span>",
+			"RRP",
+			"\n																",
+			"																					",
+			"																\n",
+			"href",
+			"												\n",
+			"12%",
+			"2%",
+			"ius: 8px",
+			"8px",
+			" 3px",
+			"bgcolor",
+			"border",
+			"89cm",
+			" 		",
+			"18",
+			"End",
+			"\"\"",
+			"13",
+			"14",
+			"18",
+			"bedside",
+			"tallboy",
+			"bedframe",
+			"bedside table",
+			"tallboy",
+			"bedframe",
+			"style=\"text-align: center;\"",
+			"Aesthetif",
+			"\n",
+			"li>",
+			"\n",
+			" \n",
+			"\n",
+			"li>",
+			"<li",
+			"li",
+			"\n",
+			" 		",
+			"60",
+			"-",
+			"\n",
+			"*",
+			";",
+			"*",
+			"p>",
+			"P",
+			"p",
+			"P",
+			"p",
+			"*",
+			" ",
+			"*",
+			";",
+			"&bull;",
+			";",
+			"&mdash;",
+			";",
+			"&mdash;",
+			"li",
+			";",
+			"mm",
+			";",
+			"*",
+			"; ",
+			"*",
+			"\n",
+			"*"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Template2-V1/index.html",
+					"settings":
+					{
+						"buffer_size": 26535,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11640,
+								11208
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 1,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2765.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Template3-V1/index.html",
+					"settings":
+					{
+						"buffer_size": 26189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8337,
+								8337
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 1,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2126.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Template4-V1/index.html",
+					"settings":
+					{
+						"buffer_size": 25363,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13929,
+								13646
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 1,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3608.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Template5-V1/index.html",
+					"settings":
+					{
+						"buffer_size": 20250,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9261,
+								9261
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 1,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2405.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"mayfi",
+				"2016/Mayfield/mayfield.html"
+			],
+			[
+				"scan",
+				"SB-Scandinavian/sb-scandy.html"
+			],
+			[
+				"ind.html",
+				"SB-Industial/sbIndustrial.html"
+			],
+			[
+				"pantop",
+				"evaSolo2/Pantone/pantoneUpload.html"
+			],
+			[
+				"ul",
+				"Upload.html"
+			],
+			[
+				"upl",
+				"Upload.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/xc0241/Desktop/STATIC/staticPages.sublime-project"
+			],
+			[
+				"st",
+				"/C/Users/xc0241/Desktop/STATIC/staticPages.sublime-project"
+			],
+			[
+				"stat",
+				"/C/Users/xc0241/Desktop/STATIC/staticPages.sublime-project"
+			],
+			[
+				"eba",
+				"/C/Users/xc0241/Desktop/ebayTemplate/ebay.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true
+}
